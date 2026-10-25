@@ -1,0 +1,1 @@
+<x-app-layout><x-slot name="header"><h2 class="text-xl font-semibold">Account setup required</h2></x-slot><div class="max-w-3xl mx-auto p-6 bg-white rounded shadow"><p>Your staff account needs a department before accessing correspondence. Contact your system administrator.</p></div></x-app-layout>
