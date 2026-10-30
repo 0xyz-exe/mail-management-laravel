@@ -2,6 +2,17 @@
 
 Laravel correspondence register for incoming/outgoing mail, department routing, private attachments, search, dispositions, audit history, and printable records.
 
+## Screenshots
+
+| Tampilan | Preview |
+|---|---|
+| **Register Korespondensi & Arsip Surat**<br>Buku agenda surat masuk dan keluar, pencarian nomor referensi, status disposisi, dan filter kategori | ![Register Korespondensi](docs/screenshots/01-mail-registry-overview.png) |
+| **Pencatatan Surat Masuk & Pengunggahan Berkas**<br>Formulir registrasi korespondensi dinas, penetapan pengirim/penerima, klasifikasi, tingkat kerahasiaan, dan lampiran PDF | ![Form Registrasi Surat](docs/screenshots/02-record-mail-form.png) |
+| **Detail Surat, Lampiran & Alur Disposisi**<br>Informasi lengkap arsip surat, tombol unduh berkas lampiran, formulir disposisi lintas bidang, dan log riwayat audit | ![Detail Surat & Alur Disposisi](docs/screenshots/03-mail-detail-disposition.png) |
+| **Statistik & Laporan Rekapitulasi Surat**<br>Rekapitulasi volume korespondensi institusional berdasarkan arah (Incoming/Outgoing) dan status pemrosesan | ![Laporan Rekapitulasi Korespondensi](docs/screenshots/04-correspondence-reports-stats.png) |
+
+---
+
 ## Setup (Windows PowerShell)
 
 ```powershell
