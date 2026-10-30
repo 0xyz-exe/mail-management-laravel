@@ -48,12 +48,3 @@ npm audit --omit=dev
 ```
 
 For production, configure HTTPS, private storage permissions/backups, mail for account recovery, least-privilege access, retention rules, and a supported transactional database. Do not commit `.env`, personal data, `vendor`, `node_modules`, or build output. MIT license.
-
-
-## Screenshots
-
-### Dashboard Overview
-![Dashboard](docs/screenshots/01_dashboard.png)
-
-### Login Overview
-![Login](docs/screenshots/02_login.png)
